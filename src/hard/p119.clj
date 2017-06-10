@@ -8,7 +8,7 @@
 ;; As in /problem/73, a tic-tac-toe board is represented by a two dimensional vector. X is represented by :x, O is represented by :o, and empty is represented by :e. Create a function that accepts a game piece and board as arguments, and returns a set (possibly empty) of all valid board placements of the game piece which would result in an immediate win.;; Board coordinates should be as in calls to get-in. For example, [0 1] is the topmost row, center position.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

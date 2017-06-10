@@ -8,7 +8,7 @@
 ;; returns the greatest common divisor.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

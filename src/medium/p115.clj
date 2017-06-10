@@ -8,7 +8,7 @@
 ;; A balanced number is one whose component digits have the same sum on the left and right halves of the number.  Write a function which accepts an integer n, and returns true iff n is balanced.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

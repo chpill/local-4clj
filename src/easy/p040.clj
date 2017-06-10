@@ -11,7 +11,7 @@
 ;; Write a function which separates the items of a sequence by an arbitrary value.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

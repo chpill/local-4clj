@@ -8,7 +8,7 @@
 ;; Write a function which drops every Nth item from a sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

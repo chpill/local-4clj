@@ -10,7 +10,7 @@
 ;; Write a function that accepts a variable length mathematical expression consisting of numbers and the operations +, -, *, and /. Assume a simple calculator that does not do precedence and instead just calculates left to right.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

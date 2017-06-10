@@ -8,7 +8,7 @@
 ;; Given any number of sequences, each sorted from smallest to largest, find the smallest single number which appears in all of the sequences. The sequences may be infinite, so be careful to search lazily.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

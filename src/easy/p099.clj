@@ -8,7 +8,7 @@
 ;; Write a function which multiplies two numbers and returns the result as a sequence of its digits.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

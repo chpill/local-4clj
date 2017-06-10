@@ -8,7 +8,7 @@
 ;; Write a function which can rotate a sequence in either direction.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

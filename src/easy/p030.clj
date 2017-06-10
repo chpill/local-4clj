@@ -8,7 +8,7 @@
 ;; Write a function which removes consecutive duplicates from a sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

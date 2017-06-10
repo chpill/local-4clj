@@ -10,7 +10,7 @@
 ;; x < y → :lt
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

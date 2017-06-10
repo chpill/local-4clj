@@ -8,7 +8,7 @@
 ;; Transform a sequence into a sequence of pairs containing the original elements along with their index.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

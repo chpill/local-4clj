@@ -40,7 +40,7 @@
 ;; of each of the first t columns of the matrix B.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

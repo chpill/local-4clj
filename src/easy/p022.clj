@@ -11,7 +11,7 @@
 ;; Write a function which returns the total number of elements in a sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

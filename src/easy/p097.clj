@@ -7,7 +7,7 @@
 ;; http://en.wikipedia.org/wiki/Pascal%27s_triangle;;  is a triangle of numbers computed using the following rules:;; - The first row is 1.- Each successive row is computed by adding together adjacent numbers in the row above, and adding a 1 to the beginning and end of the row.;; Write a function which returns the nth row of Pascal's Triangle.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

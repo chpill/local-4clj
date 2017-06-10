@@ -8,7 +8,7 @@
 ;; Write a function which calculates the ;; http://en.wikipedia.org/wiki/Cartesian_product;;  of two sets.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

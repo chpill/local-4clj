@@ -7,7 +7,7 @@
 ;; The rest function will return all the items of a sequence except the first.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

@@ -8,7 +8,7 @@
 ;; Write a function that takes a two-argument predicate, a value, and a collection; and returns a new collection where the ;; value;;  is inserted between every two items that satisfy the predicate.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

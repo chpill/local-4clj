@@ -8,7 +8,7 @@
 ;; Let bindings and function parameter lists support destructuring.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

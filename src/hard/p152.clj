@@ -59,7 +59,7 @@
 ;; 2 Length of a vector is the number of elements in the vector.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

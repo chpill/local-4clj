@@ -8,7 +8,7 @@
 ;; Write a function which returns the second to last element from a sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

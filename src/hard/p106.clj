@@ -13,7 +13,7 @@
 ;; Find the shortest path through the "maze". Because there are multiple shortest paths, you must return the length of the shortest path, not the path itself.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

@@ -8,7 +8,7 @@
 ;; Write a function which replicates each element of a sequence a variable number of times.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

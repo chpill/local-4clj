@@ -11,7 +11,7 @@
 ;; Write a function which returns a map containing the number of occurences of each distinct item in a sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

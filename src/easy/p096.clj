@@ -8,7 +8,7 @@
 ;; Let us define a binary tree as "symmetric" if the left half of the tree is the mirror image of the right half of the tree.  Write a predicate to determine whether or not a given binary tree is symmetric. (see ;; /problem/95;;  for a reminder on the tree representation we're using).
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

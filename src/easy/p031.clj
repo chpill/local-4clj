@@ -8,7 +8,7 @@
 ;; Write a function which packs consecutive duplicates into sub-lists.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

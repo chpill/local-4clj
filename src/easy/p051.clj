@@ -8,7 +8,7 @@
 ;; Here is an example of some more sophisticated destructuring.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

@@ -8,7 +8,7 @@
 ;; Create a function that computes the ;; http://en.wikipedia.org/wiki/Dot_product#Definition;;  of two sequences. You may assume that the vectors will have the same length.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

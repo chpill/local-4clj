@@ -8,7 +8,7 @@
 ;; Write a function which reverses the interleave process into x number of subsequences.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

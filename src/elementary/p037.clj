@@ -8,7 +8,7 @@
 ;; Regex patterns are supported with a special reader macro.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

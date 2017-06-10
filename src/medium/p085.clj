@@ -8,7 +8,7 @@
 ;; Write a function which generates the ;; http://en.wikipedia.org/wiki/Power_set;;  of a given set.  The power set of a set x is the set of all subsets of x, including the empty set and x itself.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

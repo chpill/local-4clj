@@ -8,7 +8,7 @@
 ;; In Clojure, only nil and false represent the values of logical falsity in conditional tests - anything else is logical truth.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

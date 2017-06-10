@@ -8,7 +8,7 @@
 ;; Write an oscillating iterate: a function that takes an initial value and a variable number of functions. It should return a lazy sequence of the functions applied to the value in order, restarting from the first function after it hits the end.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

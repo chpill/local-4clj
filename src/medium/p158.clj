@@ -9,7 +9,7 @@
 ;; You may wish to read ;; http://en.wikipedia.org/wiki/Currying;; .
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

@@ -8,7 +8,7 @@
 ;; The iterate function can be used to produce an infinite lazy sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

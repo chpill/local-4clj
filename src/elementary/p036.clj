@@ -8,7 +8,7 @@
 ;; Can you bind x, y, and z so that these are all true?
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

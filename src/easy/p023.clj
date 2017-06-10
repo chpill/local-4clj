@@ -12,7 +12,7 @@
 ;; Write a function which reverses a sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

@@ -8,7 +8,7 @@
 ;; Write a predicate which checks whether or not a given sequence represents a ;; http://en.wikipedia.org/wiki/Binary_tree;; .  Each node in the tree must have a value, a left child, and a right child.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

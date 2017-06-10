@@ -7,7 +7,7 @@
 ;; Given a string of comma separated integers, write a function which returns a new comma separated string that only contains the numbers which are perfect squares.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

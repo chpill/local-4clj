@@ -17,7 +17,7 @@
 ;;   High card: None of the above conditions are met
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

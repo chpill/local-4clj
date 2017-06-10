@@ -7,7 +7,7 @@
 ;; All Clojure collections support sequencing.  You can operate on sequences with functions like first, second, and last.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

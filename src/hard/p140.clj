@@ -10,7 +10,7 @@
 ;; PS — You may want to give this a read before proceeding: ;; http://en.wikipedia.org/wiki/K_map
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

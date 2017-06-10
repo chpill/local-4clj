@@ -8,7 +8,7 @@
 ;; Write a function that splits a sentence up into a sorted list of words.  Capitalization should not affect sort order and punctuation should be ignored.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

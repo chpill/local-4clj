@@ -8,7 +8,7 @@
 ;; http://en.wikipedia.org/wiki/Reversi is normally played on an 8 by 8 board. In this problem, a 4 by 4 board is represented as a two-dimensional vector with black, white, and empty pieces represented by 'b, 'w, and 'e, respectively. Create a function that accepts a game board and color as arguments, and returns a map of legal moves for that color. Each key should be the coordinates of a legal move, and its value a set of the coordinates of the pieces flipped by that move.;; Board coordinates should be as in calls to get-in. For example, [0 1] is the topmost row, second column from the left.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

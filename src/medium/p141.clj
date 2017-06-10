@@ -26,7 +26,7 @@
 ;;   numeric :rank. Cards with a larger rank are stronger.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

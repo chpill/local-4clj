@@ -8,7 +8,7 @@
 ;; Enter a value which satisfies the following:
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

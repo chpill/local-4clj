@@ -9,7 +9,7 @@
 ;; For this problem, we only consider '(' and ')', but the answer is similar if you work with only {} or only [].;; There is an interesting pattern in the numbers!
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

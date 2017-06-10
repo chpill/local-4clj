@@ -7,7 +7,7 @@
 ;; Write a function which doubles a number.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

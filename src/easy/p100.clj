@@ -8,7 +8,7 @@
 ;; Write a function which calculates the ;; http://en.wikipedia.org/wiki/Least_common_multiple;; .  Your function should accept a variable number of positive integers or ratios. 
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

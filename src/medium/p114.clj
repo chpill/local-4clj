@@ -11,7 +11,7 @@
 ;; track of some state as you go over the sequence?;; Write a function which accepts an integer n, a predicate p, and a sequence. It should return a lazy sequence of items in the list up to, but not including, the nth item that satisfies the predicate.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

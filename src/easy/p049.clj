@@ -11,7 +11,7 @@
 ;; Write a function which will split a sequence into two parts.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

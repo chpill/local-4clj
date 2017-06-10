@@ -12,7 +12,7 @@
 ;; Write a function which takes a variable number of parameters and returns the maximum value.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

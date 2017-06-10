@@ -11,7 +11,7 @@
 ;; Write a function which flattens a sequence.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

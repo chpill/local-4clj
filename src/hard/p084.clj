@@ -8,7 +8,7 @@
 ;; Write a function which generates the ;; http://en.wikipedia.org/wiki/Transitive_closure;;  of a ;; http://en.wikipedia.org/wiki/Binary_relation;; .  The relation will be represented as a set of 2 item vectors.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 

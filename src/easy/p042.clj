@@ -8,7 +8,7 @@
 ;; Write a function which calculates factorials.
 
 (def __ ;; Your solution here!
-
+  
   ,,,)
 
 
