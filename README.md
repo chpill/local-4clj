@@ -32,9 +32,7 @@ discover the syntax, then come back to [4clojure].
 If you have none of the above, my recommendation would be
 to [install boot](https://github.com/boot-clj/boot#install) and go from there.
 
-## Tips
-
-the `(def __ ...)` part is there to help you format your code in the way
+The `(def __ ...)` part is there to help you format your code in the way
 4clojure expects it. Oftentimes, you will need to write a function in there:
 
 ```
@@ -51,7 +49,15 @@ will be evaluated. This allows you to experiment easily with partial solutions
 with a very tight feedback loop.
 
 
-## Build and push the docker image
+## Tips
+
+Keep a tab open on the clojure [cheatsheet](https://clojure.org/api/cheatsheet).
+You'll need it.
+
+
+## Development
+
+### Build and push the docker image
 
 If you want to build the docker image `docker build -t <your docker hub
 handle>/local-4clj:<tag> .`.
