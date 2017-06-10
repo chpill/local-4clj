@@ -3,5 +3,5 @@
   :url "https://github.com/chpill/local-4clj"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.8.0"]]
-  :plugins [[nightlight/lein-nightlight "1.6.5"]])
+  :dependencies [[org.clojure/clojure "1.9.0-alpha17"]]
+  :plugins [[nightlight/lein-nightlight "1.6.5" :exclusions [org.clojure/clojure]]])
