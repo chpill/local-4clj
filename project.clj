@@ -4,4 +4,4 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]]
-  :plugins [[org.clojars.chpill/lein-nightlight "1.6.5-SNAPSHOT"]])
+  :plugins [[nightlight/lein-nightlight "1.6.5"]])
