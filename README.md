@@ -32,6 +32,11 @@ discover the syntax, then come back to [4clojure].
 If you have none of the above, my recommendation would be
 to [install boot](https://github.com/boot-clj/boot#install) and go from there.
 
+Open `http://localhost:4000` in your favorite browser (with JS enabled), you
+should now see the interface of the [nightlight] editor. Go to the `src`
+directory (in the left side-bar), then to your current problem difficulty, then
+to the number of the problem.
+
 The `(def __ ...)` part is there to help you format your code in the way
 4clojure expects it. Oftentimes, you will need to write a function in there:
 
@@ -42,7 +47,9 @@ The `(def __ ...)` part is there to help you format your code in the way
   ,,,)
 ```
 
-Of course, in a normal project, you would use a `defn`, but for this special case, just write the function this way, it will be easier to copy-paste your response on [4clojure] later.
+Of course, in a normal project, you would use a `defn`, but for this special
+case, just write the function this way, it will be easier to copy-paste your
+response on [4clojure] later.
 
 Also, notice that if you toggle on the InstaREPL, any form you write in the file
 will be evaluated. This allows you to experiment easily with partial solutions
