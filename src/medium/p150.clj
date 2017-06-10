@@ -7,12 +7,13 @@
 
 ;; A palindromic number is a number that is the same when written forwards or backwards (e.g., 3, 99, 14341).;; Write a function which takes an integer n, as its only argument, and returns an increasing lazy sequence of all palindromic numbers that are not less than n.;; The most simple solution will exceed the time limit!
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (take 26 (__ 0))
    [0 1 2 3 4 5 6 7 8 9 
     11 22 33 44 55 66 77 88 99 

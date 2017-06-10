@@ -16,12 +16,13 @@
 ;;   Pair: Two cards have the same rank
 ;;   High card: None of the above conditions are met
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= :high-card (__ ["HA" "D2" "H3" "C9" "DJ"]))
 (= :pair (__ ["HA" "HQ" "SJ" "DA" "HT"]))
 (= :two-pair (__ ["HA" "DA" "HQ" "SQ" "HT"]))

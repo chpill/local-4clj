@@ -7,12 +7,13 @@
 
 ;; Write a function which generates the ;; http://en.wikipedia.org/wiki/Power_set;;  of a given set.  The power set of a set x is the set of all subsets of x, including the empty set and x itself.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ #{1 :a}) #{#{1 :a} #{:a} #{} #{1}})
 (= (__ #{}) #{#{}})
 (= (__ #{1 2 3})

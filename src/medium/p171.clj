@@ -6,12 +6,13 @@
 
 ;; Write a function that takes a sequence of integers and returns a sequence of "intervals".  Each interval is a a vector of two integers, start and end, such that all integers between start and end (inclusive) are contained in the input sequence.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ [1 2 3]) [[1 3]])
 (= (__ [10 9 8 1 2 3]) [[1 3] [8 10]])
 (= (__ [1 1 1 1 1 1 1]) [[1 1]])

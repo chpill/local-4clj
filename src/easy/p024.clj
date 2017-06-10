@@ -7,12 +7,13 @@
 
 ;; Write a function which returns the sum of a sequence of numbers.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ [1 2 3]) 6)
 (= (__ (list 0 -2 5 5)) 8)
 (= (__ #{4 2 1}) 7)

@@ -18,12 +18,13 @@
 ;; Minerals must have a minimum of three measures of area to be harvested
 ;; If no minerals can be harvested from the rock, your function should return nil
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= 10 (__ [15 15 15 15 15]))
 ; 1111      1111
 ; 1111      *111

@@ -9,12 +9,13 @@
 
 ;; The number of k-combinations for a sequence is equal to the ;; https://secure.wikimedia.org/wikipedia/en/wiki/Binomial_coefficient;; .
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ 1 #{4 5 6}) #{#{4} #{5} #{6}})
 (= (__ 10 #{4 5 6}) #{})
 (= (__ 2 #{0 1 2}) #{#{0 1} #{0 2} #{1 2}})

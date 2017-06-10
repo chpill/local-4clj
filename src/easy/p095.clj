@@ -7,12 +7,13 @@
 
 ;; Write a predicate which checks whether or not a given sequence represents a ;; http://en.wikipedia.org/wiki/Binary_tree;; .  Each node in the tree must have a value, a left child, and a right child.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ '(:a (:b nil nil) nil))
    true)
 (= (__ '(:a (:b nil nil)))

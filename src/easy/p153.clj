@@ -11,12 +11,13 @@
 ;; Some of the test cases are a bit tricky, so pay a little more attention to them. 
 ;; 1Such sets are usually called pairwise disjoint or mutually disjoint.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ #{#{\U} #{\s} #{\e \R \E} #{\P \L} #{\.}})
    true)
 (= (__ #{#{:a :b :c :d :e}

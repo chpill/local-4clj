@@ -7,12 +7,13 @@
 
 ;; Write a function which calculates factorials.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ 1) 1)
 (= (__ 3) 6)
 (= (__ 5) 120)

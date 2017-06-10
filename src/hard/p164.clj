@@ -16,12 +16,13 @@
 
 ;; Note: Although the DFA itself is finite and only recognizes finite-length strings it can still recognize an infinite set of finite-length strings. And because stack space is finite, make sure you don't get stuck in an infinite loop that's not producing results every so often!
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= #{"a" "ab" "abc"}
    (set (__ '{:states #{q0 q1 q2 q3}
               :alphabet #{a b c}

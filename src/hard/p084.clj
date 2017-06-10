@@ -7,12 +7,13 @@
 
 ;; Write a function which generates the ;; http://en.wikipedia.org/wiki/Transitive_closure;;  of a ;; http://en.wikipedia.org/wiki/Binary_relation;; .  The relation will be represented as a set of 2 item vectors.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (let [divides #{[8 4] [9 3] [4 2] [27 9]}]
   (= (__ divides) #{[4 2] [8 4] [8 2] [9 3] [27 9] [27 3]}))
 (let [more-legs

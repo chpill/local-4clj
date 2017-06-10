@@ -6,12 +6,13 @@
 
 ;; Write a function which doubles a number.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ 2) 4)
 (= (__ 3) 6)
 (= (__ 11) 22)

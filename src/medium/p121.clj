@@ -16,12 +16,13 @@
 ;; 	 The returned function has to accept a single parameter containing the map
 ;; 	 of variable names to their values.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= 2 ((__ '(/ a b))
       '{b 8 a 16}))
 (= 8 ((__ '(+ a b 2))

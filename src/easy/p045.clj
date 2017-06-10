@@ -7,10 +7,11 @@
 
 ;; The iterate function can be used to produce an infinite lazy sequence.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= __ (take 5 (iterate #(+ 3 %) 1)))

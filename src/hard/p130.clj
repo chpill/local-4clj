@@ -25,12 +25,13 @@
 ;; Your function will be given two args -- the name of the node
 ;; that should become the new root, and the tree to transform.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= '(n)
    (__ 'n '(n)))
 (= '(a (t (e)))

@@ -12,12 +12,13 @@
 ;; C represents the cheese which the mouse must reach
 ;; The mouse is not allowed to travel diagonally in the maze (only up/down/left/right), nor can he escape the edge of the maze.  Your function must return true iff the maze is solvable by the mouse.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= true  (__ ["M   C"]))
 (= false (__ ["M # C"]))
 (= true  (__ ["#######"

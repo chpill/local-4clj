@@ -7,12 +7,13 @@
 
 ;; Given two sequences x and y, calculate the ;; https://secure.wikimedia.org/wikipedia/en/wiki/Levenshtein_distance;;  of x and y, i. e. the minimum number of edits needed to transform x into y.  The allowed edits are:;; - insert a single item;; - delete a single item;; - replace a single item with another item;; WARNING: Some of the test cases may timeout if you write an inefficient solution!
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ "kitten" "sitting") 3)
 (= (__ "closure" "clojure") (__ "clojure" "closure") 1)
 (= (__ "xyx" "xyyyx") 2)

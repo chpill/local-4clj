@@ -39,12 +39,13 @@
 ;; s rows of the matrix B or, equivalently, that consists of the first s entries 
 ;; of each of the first t columns of the matrix B.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (take 5 (map #(take 6 %) (__ str)))
    [["00" "01" "02" "03" "04" "05"]
     ["10" "11" "12" "13" "14" "15"]

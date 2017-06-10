@@ -6,12 +6,13 @@
 
 ;; Convert a binary number, provided in the form of a string, to its numerical value.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= 0     (__ "0"))
 (= 7     (__ "111"))
 (= 8     (__ "1000"))

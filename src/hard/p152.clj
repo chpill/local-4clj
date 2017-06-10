@@ -58,12 +58,13 @@
 
 ;; 2 Length of a vector is the number of elements in the vector.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ '[[A B C D]
          [A C D B]
          [B A D C]

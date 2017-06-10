@@ -18,12 +18,13 @@
 ;;         (drop (dec 1000000))
 ;;         (take 2)));; Special Restrictionsmapmap-indexedmapcatfor
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= [3 4 5 6 7]
    (__ inc [2 3 4 5 6]))
 (= (repeat 10 nil)

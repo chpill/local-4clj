@@ -24,12 +24,13 @@
 
 ;; - Words may be placed vertically (proceeding top-down only), or horizontally (proceeding left-right only).
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= true  (__ "the" ["_ # _ _ e"]))
 (= false (__ "the" ["c _ _ _"
                     "d _ # e"

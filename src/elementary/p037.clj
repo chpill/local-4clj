@@ -7,10 +7,11 @@
 
 ;; Regex patterns are supported with a special reader macro.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= __ (apply str (re-seq #"[A-Z]+" "bA1B3Ce ")))

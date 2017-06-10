@@ -25,12 +25,13 @@
 ;;   a hash-map of :suit and a
 ;;   numeric :rank. Cards with a larger rank are stronger.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (let [notrump (__ nil)]
   (and (= {:suit :club :rank 9}  (notrump [{:suit :club :rank 4}
                                            {:suit :club :rank 9}]))

@@ -6,10 +6,11 @@
 
 ;; Clojure strings are Java strings.  This means that you can use any of the Java string methods on Clojure strings.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= __ (.toUpperCase "hello world"))

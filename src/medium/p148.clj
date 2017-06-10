@@ -7,12 +7,13 @@
 
 ;; Write a function which calculates the sum of all natural numbers under n (first argument) which are evenly divisible by at least one of a and b (second and third argument). Numbers a and b are guaranteed to be http://en.wikipedia.org/wiki/Coprime.;; Note: Some test cases have a very large n, so the most obvious solution will exceed the time limit.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= 0 (__ 3 17 11))
 (= 23 (__ 10 3 5))
 (= 233168 (__ 1000 3 5))

@@ -8,12 +8,13 @@
 ;; Write a function that accepts a curried function of unknown arity ;; n;; .  Return an equivalent function of ;; n;;  arguments.
 ;; You may wish to read ;; http://en.wikipedia.org/wiki/Currying;; .
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= 10 ((__ (fn [a]
              (fn [b]
                (fn [c]

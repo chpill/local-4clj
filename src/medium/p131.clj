@@ -7,12 +7,13 @@
 
 ;; Given a variable number of sets of integers, create a function which returns true iff all of the sets have a non-empty subset with an equivalent summation.
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= true  (__ #{-1 1 99} 
              #{-2 2 888}
              #{-3 3 7777})) ; ex. all sets have a subset which sums to zero

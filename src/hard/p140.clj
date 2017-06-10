@@ -9,12 +9,13 @@
 
 ;; PS — You may want to give this a read before proceeding: ;; http://en.wikipedia.org/wiki/K_map
 
-(def __
-  ,,,
-  ;; Your code here!
+(def __ ;; Your solution here!
+
   ,,,)
 
-;; Test cases:
+
+
+;; Test cases (evaluates to true when your solution is correct):
 (= (__ #{#{'a 'B 'C 'd}
          #{'A 'b 'c 'd}
          #{'A 'b 'c 'D}
